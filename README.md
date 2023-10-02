@@ -1,13 +1,13 @@
 ![logo](https://github.com/eeksh/eeksh/blob/main/banner1.webp)
 <h1 align="center">Hi 👋, I'm Deeksha Chamoli</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
+<h3 align="center">A passionate Software Engineer developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://humbergalleries.ca/sites/default/files/exhibitions/AoCTitle2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eeksh&label=Profile%20views&color=0e75b6&style=flat" alt="eeksh" /> </p>
 
-- 🌱 I’m currently learning **Blockchain**
-
+- 🌱 I’m currently learning **Python** 
+- 🌱 Interested in **BlockChain** as well.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
